@@ -42,6 +42,12 @@
 
 ## Development
 
+- Install all projects dependencies for development environment:
+
+  ```sh
+  pnpm install
+  ```
+
 - Run all projects in `apps/*` folder in development environment:
 
   ```sh
